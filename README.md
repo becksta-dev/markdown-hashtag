@@ -84,7 +84,7 @@ print(html)
 ```
 The result looks like this:
 
-![rendered ouput in Browser](renderedHashtags.png)
+![rendered ouput in Browser](https://github.com/becksta-dev/markdown-hashtag/blob/main/renderedHashtags.png)
 
 # License
 
